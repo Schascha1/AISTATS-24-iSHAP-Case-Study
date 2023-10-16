@@ -9,7 +9,9 @@ through the Shapley value.
 explained contribution through their Shapley value, as well as for each set the contribution of
 their interaction.
 - For *NSHAP*, we provide all NSHAP contributions for all subsets up to size 4, i.e. all possible
-combination of features with at most 4 components.
+combination of features with at most 4 components. Patient Index starts at 0 here, so that "0_nshap_covid.csv" 
+has the first patient.
+
 The csv files of the explanations used in the example from the paper are provided in "ishap_sample.csv",
 "nshap_sample.csv" and "shap_sample.csv". The remaining files can be found indexed by their patient id
 in the respective zip archives.
