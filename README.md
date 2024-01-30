@@ -1,5 +1,5 @@
 # iSHAP post-hoc explanations: Covid-19 survival prediction
-Supplementary case study for "Succinct Interaction-Aware Explanations", submission to AISTATS-24.
+Supplementary case study for "Succinct Interaction-Aware Explanations", submission to ICML-24.
 Case study on a dataset of Covid-19 patients[^1] where a random forest model is trained to predict 
 survival odds. We provide the explained prediction for each patient in a separate csv per method.
 
