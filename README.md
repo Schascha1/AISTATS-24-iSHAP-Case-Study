@@ -14,7 +14,7 @@ has the first patient.
 
 The csv files of the explanations used in the example from the paper are provided in "ishap_sample.csv",
 "nshap_sample.csv" and "shap_sample.csv". The remaining files can be found indexed by their patient id
-in the respective zip archives.
+in the respective zip archives "covid-ishap", "covid-shap" and "covid-nshap".
 Thank you for taking the time and effort to review!
     
 [^1]: Lambert, Ben, et al. "Using patient biomarker time series to determine mortality risk in hospitalised COVID-19 patients: A comparative analysis across two New York hospitals." Plos one 17.8 (2022): e0272442.
